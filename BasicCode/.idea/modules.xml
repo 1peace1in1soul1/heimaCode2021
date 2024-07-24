@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ithema_git_workspace/ithema_git_workspace.iml" filepath="$PROJECT_DIR$/../ithema_git_workspace/ithema_git_workspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mArrayList/mArrayList.iml" filepath="$PROJECT_DIR$/mArrayList/mArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mArrayTest/mArrayTest.iml" filepath="$PROJECT_DIR$/mArrayTest/mArrayTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mMethodTest/mMethodTest.iml" filepath="$PROJECT_DIR$/mMethodTest/mMethodTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mMthodTest/mMthodTest.iml" filepath="$PROJECT_DIR$/mMthodTest/mMthodTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mOop/mOop.iml" filepath="$PROJECT_DIR$/mOop/mOop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mRadix/mRadix.iml" filepath="$PROJECT_DIR$/mRadix/mRadix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mString/mString.iml" filepath="$PROJECT_DIR$/mString/mString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mStudentManager/mStudentManager.iml" filepath="$PROJECT_DIR$/mStudentManager/mStudentManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mTwoDimensionalArray/mTwoDimensionalArray.iml" filepath="$PROJECT_DIR$/mTwoDimensionalArray/mTwoDimensionalArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myIdeaTest/myIdeaTest.iml" filepath="$PROJECT_DIR$/myIdeaTest/myIdeaTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqlTest/sqlTest.iml" filepath="$PROJECT_DIR$/sqlTest/sqlTest.iml" />
+    </modules>
+  </component>
+</project>

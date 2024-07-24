@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/itheima-edu-info-manager/itheima-edu-info-manager.iml" filepath="$PROJECT_DIR$/itheima-edu-info-manager/itheima-edu-info-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybinarysearch/mybinarysearch.iml" filepath="$PROJECT_DIR$/mybinarysearch/mybinarysearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-abstract/test-abstract.iml" filepath="$PROJECT_DIR$/test-abstract/test-abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-innerclass/test-innerclass.iml" filepath="$PROJECT_DIR$/test-innerclass/test-innerclass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-lambda/test-lambda.iml" filepath="$PROJECT_DIR$/test-lambda/test-lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-package/test-package.iml" filepath="$PROJECT_DIR$/test-package/test-package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-ploymorpic/test-ploymorpic.iml" filepath="$PROJECT_DIR$/test-ploymorpic/test-ploymorpic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-static/test-static.iml" filepath="$PROJECT_DIR$/test-static/test-static.iml" />
+    </modules>
+  </component>
+</project>
